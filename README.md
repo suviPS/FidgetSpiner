@@ -4,7 +4,7 @@
 <img src="preview_images/fidget_spiner_preview.png" width=200 align="right" />
 
 
-Simple fidget spiner app with no ads
+Simple fidget spiner app with no ads, just spin and relax...
 
 
 
