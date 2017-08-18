@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!--SplashScreen-->
+    <item type="color" name="color_splash_back">#bebebe</item>
+
+    <!--Settings && MainActivity-->
+    <item type="color" name="color_primary">#cfd8dc</item>
+    <item type="color" name="color_primary_dark">#90a4ae</item>
+    <item type="color" name="color_accent">#3F51B5</item>
+
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="tk.ksfdev.httpwww.fidgetspiner.MainActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="650dp"
+        android:layout_height="650dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" />
+
+    <Button
+        android:id="@+id/buttonLockSpiner"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_margin="12dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/ic_lock_gray"
+        android:onClick="lockSpiner"/>
+
+    <Button
+        android:id="@+id/buttonSettings"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_margin="12dp"
+        android:background="@drawable/ic_settings_gray"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:onClick="goToSettings"/>
+
+    <Button
+        android:id="@+id/buttonRandomSpiner"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_margin="12dp"
+        android:background="@drawable/ic_shuffle_gray"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:onClick="randomSpiner"/>
+
+</RelativeLayout>
