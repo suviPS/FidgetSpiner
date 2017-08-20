@@ -12,7 +12,7 @@ Simple fidget spiner app with no ads, just spin and relax...
 
 ## License
 
-Copyright 2017 suviPS
+Copyright 2017 Petar Suvajac
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
